@@ -313,6 +313,13 @@ textarea {
       .about__content-details-para:last-child {
         margin-bottom: 4rem; }
 
+.project__span {
+  display: block;
+}      
+  .span__pictures {
+    max-width: 100%;
+  }  
+
 .projects__row {
   display: grid;
   grid-template-columns: 1fr 1fr;
